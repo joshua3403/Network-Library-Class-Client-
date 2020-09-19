@@ -1,0 +1,2 @@
+[SERVER] [2020-09-19 19:13:07 / WARNNING / 00000001] client IP : 127.0.0.1, port : 6000 connection denied
+
